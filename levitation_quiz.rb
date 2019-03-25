@@ -10,4 +10,3 @@ def greeting
     puts "Your name is #{name}!"
 end
  
-greeting
